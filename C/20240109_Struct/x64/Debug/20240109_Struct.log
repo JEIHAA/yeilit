@@ -1,7 +1,0 @@
-﻿  main.c
-C:\Users\admin\Desktop\study\C\20240109_Struct\main.c(38,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-  C:\Users\admin\Desktop\study\C\20240109_Struct\main.c(38,9):
-  consider using '%zd' in the format string
-  
-C:\Users\admin\Desktop\study\C\20240109_Struct\main.c(40,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type '_SStatus'
-  20240109_Struct.vcxproj -> C:\Users\admin\Desktop\study\C\20240109_Struct\x64\Debug\20240109_Struct.exe

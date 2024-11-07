@@ -1,7 +1,0 @@
-﻿  main.c
-C:\Users\admin\Desktop\study\C\20240109_2DArray\main.c(22,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-  C:\Users\admin\Desktop\study\C\20240109_2DArray\main.c(22,9):
-  consider using '%zd' in the format string
-  
-C:\Users\admin\Desktop\study\C\20240109_2DArray\main.c(29,15): warning C4048: different array subscripts: 'int (*)[3]' and 'int [2][5]'
-  20240109_2DArray.vcxproj -> C:\Users\admin\Desktop\study\C\20240109_2DArray\x64\Debug\20240109_2DArray.exe

@@ -1,4 +1,0 @@
-﻿  main.c
-C:\Users\admin\Desktop\study\C\20240110_PointerFunciton_Ex\main.c(5,2): warning C4013: 'free' undefined; assuming extern returning int
-C:\Users\admin\Desktop\study\C\20240110_PointerFunciton_Ex\main.c(9,15): error C2059: syntax error: ';'
-C:\Users\admin\Desktop\study\C\20240110_PointerFunciton_Ex\main.c(11,14): warning C4133: 'function': incompatible types - from 'float *' to 'int *'

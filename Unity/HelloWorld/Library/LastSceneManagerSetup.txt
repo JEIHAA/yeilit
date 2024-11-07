@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/20240304_Animation/Scenes/20240304_Animation.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

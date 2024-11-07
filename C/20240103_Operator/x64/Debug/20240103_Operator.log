@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\admin\Desktop\study\C\20240103_Operator\main.c(25,26): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  20240103_Operator.vcxproj -> C:\Users\admin\Desktop\study\C\20240103_Operator\x64\Debug\20240103_Operator.exe

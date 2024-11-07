@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\admin\Desktop\study\C\20240108_Array\main.c(17,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\admin\Desktop\study\C\20240108_Array\main.c(17,9):
+  consider using '%zd' in the format string
+  
+  20240108_Array.vcxproj -> C:\Users\admin\Desktop\study\C\20240108_Array\x64\Debug\20240108_Array.exe

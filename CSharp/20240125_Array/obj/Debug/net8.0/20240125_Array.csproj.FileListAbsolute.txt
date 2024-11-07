@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\bin\Debug\net8.0\20240125_Array.exe
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\bin\Debug\net8.0\20240125_Array.deps.json
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\bin\Debug\net8.0\20240125_Array.runtimeconfig.json
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\bin\Debug\net8.0\20240125_Array.dll
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\bin\Debug\net8.0\20240125_Array.pdb
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\obj\Debug\net8.0\20240125_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\obj\Debug\net8.0\20240125_Array.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\obj\Debug\net8.0\20240125_Array.AssemblyInfo.cs
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\obj\Debug\net8.0\20240125_Array.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\obj\Debug\net8.0\20240125_Array.dll
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\obj\Debug\net8.0\refint\20240125_Array.dll
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\obj\Debug\net8.0\20240125_Array.pdb
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\obj\Debug\net8.0\20240125_Array.genruntimeconfig.cache
+C:\Users\admin\Desktop\study\CSharp\20240125_Array\obj\Debug\net8.0\ref\20240125_Array.dll

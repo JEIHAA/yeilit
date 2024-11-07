@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\bin\Debug\net8.0\20240124_HelloWorld.exe
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\bin\Debug\net8.0\20240124_HelloWorld.deps.json
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\bin\Debug\net8.0\20240124_HelloWorld.runtimeconfig.json
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\bin\Debug\net8.0\20240124_HelloWorld.dll
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\bin\Debug\net8.0\20240124_HelloWorld.pdb
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\obj\Debug\net8.0\20240124_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\obj\Debug\net8.0\20240124_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\obj\Debug\net8.0\20240124_HelloWorld.AssemblyInfo.cs
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\obj\Debug\net8.0\20240124_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\obj\Debug\net8.0\20240124_HelloWorld.dll
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\obj\Debug\net8.0\refint\20240124_HelloWorld.dll
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\obj\Debug\net8.0\20240124_HelloWorld.pdb
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\obj\Debug\net8.0\20240124_HelloWorld.genruntimeconfig.cache
+C:\Users\admin\Desktop\study\CSharp\20240124_HelloWorld\obj\Debug\net8.0\ref\20240124_HelloWorld.dll

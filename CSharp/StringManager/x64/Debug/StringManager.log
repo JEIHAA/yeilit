@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\admin\Desktop\study\CSharp\StringManager\main.c(60,18): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\admin\Desktop\study\CSharp\StringManager\main.c(60,38): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\admin\Desktop\study\CSharp\StringManager\main.c(74,17): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\admin\Desktop\study\CSharp\StringManager\main.c(88,18): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\admin\Desktop\study\CSharp\StringManager\main.c(95,18): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  StringManager.vcxproj -> C:\Users\admin\Desktop\study\CSharp\StringManager\x64\Debug\StringManager.exe

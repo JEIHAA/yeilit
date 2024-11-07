@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\bin\Debug\net8.0\20240201_StarCraft.exe
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\bin\Debug\net8.0\20240201_StarCraft.deps.json
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\bin\Debug\net8.0\20240201_StarCraft.runtimeconfig.json
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\bin\Debug\net8.0\20240201_StarCraft.dll
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\bin\Debug\net8.0\20240201_StarCraft.pdb
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\obj\Debug\net8.0\20240201_StarCraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\obj\Debug\net8.0\20240201_StarCraft.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\obj\Debug\net8.0\20240201_StarCraft.AssemblyInfo.cs
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\obj\Debug\net8.0\20240201_StarCraft.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\obj\Debug\net8.0\20240201_StarCraft.dll
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\obj\Debug\net8.0\refint\20240201_StarCraft.dll
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\obj\Debug\net8.0\20240201_StarCraft.pdb
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\obj\Debug\net8.0\20240201_StarCraft.genruntimeconfig.cache
+C:\Users\admin\Desktop\Study\CSharp\20240201_StarCraft\obj\Debug\net8.0\ref\20240201_StarCraft.dll

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\bin\Debug\net8.0\20240130_Struct.exe
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\bin\Debug\net8.0\20240130_Struct.deps.json
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\bin\Debug\net8.0\20240130_Struct.runtimeconfig.json
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\bin\Debug\net8.0\20240130_Struct.dll
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\bin\Debug\net8.0\20240130_Struct.pdb
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\obj\Debug\net8.0\20240130_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\obj\Debug\net8.0\20240130_Struct.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\obj\Debug\net8.0\20240130_Struct.AssemblyInfo.cs
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\obj\Debug\net8.0\20240130_Struct.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\obj\Debug\net8.0\20240130_Struct.dll
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\obj\Debug\net8.0\refint\20240130_Struct.dll
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\obj\Debug\net8.0\20240130_Struct.pdb
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\obj\Debug\net8.0\20240130_Struct.genruntimeconfig.cache
+C:\Users\admin\Desktop\study\CSharp\20240130_Struct\obj\Debug\net8.0\ref\20240130_Struct.dll

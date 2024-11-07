@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\study\CSharp\20240126_String\bin\Debug\net8.0\20240126_String.exe
+C:\Users\admin\Desktop\study\CSharp\20240126_String\bin\Debug\net8.0\20240126_String.deps.json
+C:\Users\admin\Desktop\study\CSharp\20240126_String\bin\Debug\net8.0\20240126_String.runtimeconfig.json
+C:\Users\admin\Desktop\study\CSharp\20240126_String\bin\Debug\net8.0\20240126_String.dll
+C:\Users\admin\Desktop\study\CSharp\20240126_String\bin\Debug\net8.0\20240126_String.pdb
+C:\Users\admin\Desktop\study\CSharp\20240126_String\obj\Debug\net8.0\20240126_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\study\CSharp\20240126_String\obj\Debug\net8.0\20240126_String.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\study\CSharp\20240126_String\obj\Debug\net8.0\20240126_String.AssemblyInfo.cs
+C:\Users\admin\Desktop\study\CSharp\20240126_String\obj\Debug\net8.0\20240126_String.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\study\CSharp\20240126_String\obj\Debug\net8.0\20240126_String.dll
+C:\Users\admin\Desktop\study\CSharp\20240126_String\obj\Debug\net8.0\refint\20240126_String.dll
+C:\Users\admin\Desktop\study\CSharp\20240126_String\obj\Debug\net8.0\20240126_String.pdb
+C:\Users\admin\Desktop\study\CSharp\20240126_String\obj\Debug\net8.0\20240126_String.genruntimeconfig.cache
+C:\Users\admin\Desktop\study\CSharp\20240126_String\obj\Debug\net8.0\ref\20240126_String.dll

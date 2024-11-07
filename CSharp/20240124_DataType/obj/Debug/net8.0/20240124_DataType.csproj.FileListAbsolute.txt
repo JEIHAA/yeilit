@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\bin\Debug\net8.0\20240124_DataType.exe
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\bin\Debug\net8.0\20240124_DataType.deps.json
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\bin\Debug\net8.0\20240124_DataType.runtimeconfig.json
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\bin\Debug\net8.0\20240124_DataType.dll
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\bin\Debug\net8.0\20240124_DataType.pdb
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\obj\Debug\net8.0\20240124_DataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\obj\Debug\net8.0\20240124_DataType.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\obj\Debug\net8.0\20240124_DataType.AssemblyInfo.cs
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\obj\Debug\net8.0\20240124_DataType.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\obj\Debug\net8.0\20240124_DataType.dll
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\obj\Debug\net8.0\refint\20240124_DataType.dll
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\obj\Debug\net8.0\20240124_DataType.pdb
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\obj\Debug\net8.0\20240124_DataType.genruntimeconfig.cache
+C:\Users\admin\Desktop\study\CSharp\20240124_DataType\obj\Debug\net8.0\ref\20240124_DataType.dll

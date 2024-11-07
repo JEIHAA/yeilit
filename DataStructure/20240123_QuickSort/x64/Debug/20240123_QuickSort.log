@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\admin\Desktop\study\DataStructure\20240123_QuickSort\main.c(18,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  20240123_QuickSort.vcxproj -> C:\Users\admin\Desktop\study\DataStructure\20240123_QuickSort\x64\Debug\20240123_QuickSort.exe

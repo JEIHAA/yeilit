@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\admin\Desktop\study\CSharp\selectionSort\main.c(15,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  selectionSort.vcxproj -> C:\Users\admin\Desktop\study\CSharp\selectionSort\x64\Debug\selectionSort.exe

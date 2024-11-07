@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\admin\Desktop\study\DataStructure\240117_DLLS\main.c(90,3): warning C4033: 'Pop' must return a value
+C:\Users\admin\Desktop\study\DataStructure\240117_DLLS\main.c(101): warning C4715: 'Pop': not all control paths return a value
+  240117_DLLS.vcxproj -> C:\Users\admin\Desktop\study\DataStructure\240117_DLLS\x64\Debug\240117_DLLS.exe

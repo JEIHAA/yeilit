@@ -1,0 +1,19 @@
+﻿  main.c
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(44,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(122,27): warning C4133: 'function': incompatible types - from 'SNode *' to 'SNode *const '
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(127,18): warning C4133: '=': incompatible types - from 'SNode *' to 'SNode *'
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(135,27): warning C4133: 'function': incompatible types - from 'SNode *' to 'SNode *const '
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(140,19): warning C4133: '=': incompatible types - from 'SNode *' to 'SNode *'
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(164,3): warning C4033: 'PrintAllRecursive' must return a value
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(169,27): warning C4133: 'function': incompatible types - from 'SNode *const ' to 'const SNode *const '
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(178,27): warning C4133: 'function': incompatible types - from 'SNode *const ' to 'const SNode *const '
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(217,22): warning C4133: 'function': incompatible types - from 'SNode **' to 'SNode **const '
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(222,22): warning C4133: 'function': incompatible types - from 'SNode **' to 'SNode **const '
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(235,3): warning C4033: 'Search' must return a value
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(240,20): warning C4090: '=': different 'const' qualifiers
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(245,27): warning C4133: 'function': incompatible types - from 'SNode *const ' to 'const SNode *const '
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(249,27): warning C4133: 'function': incompatible types - from 'SNode *const ' to 'const SNode *const '
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(196): warning C4716: 'PrintAllWithLevel': must return a value
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(181): warning C4715: 'PrintAllRecursive': not all control paths return a value
+C:\Users\admin\Desktop\study\DataStructure\240118_Tree\main.c(252): warning C4715: 'Search': not all control paths return a value
+  240118_Tree.vcxproj -> C:\Users\admin\Desktop\study\DataStructure\240118_Tree\x64\Debug\240118_Tree.exe

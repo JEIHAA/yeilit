@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\admin\Desktop\study\DataStructure\20240112_Queue\main.c(66,34): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\admin\Desktop\study\DataStructure\20240112_Queue\main.c(68,17): warning C4098: 'PrintQueue': 'void' function returning a value
+C:\Users\admin\Desktop\study\DataStructure\20240112_Queue\main.c(72,17): warning C4098: 'PrintQueue': 'void' function returning a value
+C:\Users\admin\Desktop\study\DataStructure\20240112_Queue\main.c(44): warning C4715: 'Put': not all control paths return a value
+  20240112_Queue.vcxproj -> C:\Users\admin\Desktop\study\DataStructure\20240112_Queue\x64\Debug\20240112_Queue.exe

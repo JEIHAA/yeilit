@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\admin\Desktop\study\DataStructure\20240116_SingleLinkedList\main.c(72,9): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\admin\Desktop\study\DataStructure\20240116_SingleLinkedList\main.c(80,68): warning C4028: formal parameter 2 different from declaration
+C:\Users\admin\Desktop\study\DataStructure\20240116_SingleLinkedList\main.c(87,11): warning C4098: 'AddFront': 'void' function returning a value
+C:\Users\admin\Desktop\study\DataStructure\20240116_SingleLinkedList\main.c(91,27): warning C4090: '=': different 'const' qualifiers
+C:\Users\admin\Desktop\study\DataStructure\20240116_SingleLinkedList\main.c(107,9): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\admin\Desktop\study\DataStructure\20240116_SingleLinkedList\main.c(126,9): warning C4090: 'initializing': different 'const' qualifiers
+  20240116_SingleLinkedList.vcxproj -> C:\Users\admin\Desktop\study\DataStructure\20240116_SingleLinkedList\x64\Debug\20240116_SingleLinkedList.exe

@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (240122_SelectionSort.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+C:\Users\admin\Desktop\study\DataStructure\240122_SelectionSort\main.c(28,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\admin\Desktop\study\DataStructure\240122_SelectionSort\main.c(81): warning C4716: 'CreateNode': must return a value
+  240122_SelectionSort.vcxproj -> C:\Users\admin\Desktop\study\DataStructure\240122_SelectionSort\x64\Debug\240122_B_SelectionSort.exe

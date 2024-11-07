@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\admin\Desktop\study\DataStructure\20240123_BubbleSort\main.c(15,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  20240123_BubbleSort.vcxproj -> C:\Users\admin\Desktop\study\DataStructure\20240123_BubbleSort\x64\Debug\20240123_BubbleSort.exe

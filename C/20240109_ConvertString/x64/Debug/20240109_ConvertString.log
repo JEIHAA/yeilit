@@ -1,0 +1,10 @@
+﻿  20240109_C_이희언.c
+C:\Users\admin\Desktop\study\C\20240109_ConvertString\20240109_C_이희언.c(22,24): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+C:\Users\admin\Desktop\study\C\20240109_ConvertString\20240109_C_이희언.c(22,24): warning C4024: 'Lower': different types for formal and actual parameter 1
+C:\Users\admin\Desktop\study\C\20240109_ConvertString\20240109_C_이희언.c(30,33): warning C4028: formal parameter 1 different from declaration
+C:\Users\admin\Desktop\study\C\20240109_ConvertString\20240109_C_이희언.c(37,29): warning C4047: '<=': 'const unsigned char *' differs in levels of indirection from 'int'
+C:\Users\admin\Desktop\study\C\20240109_ConvertString\20240109_C_이희언.c(64,24): warning C4028: formal parameter 1 different from declaration
+C:\Users\admin\Desktop\study\C\20240109_ConvertString\20240109_C_이희언.c(71,29): warning C4047: '<=': 'const char *' differs in levels of indirection from 'int'
+C:\Users\admin\Desktop\study\C\20240109_ConvertString\20240109_C_이희언.c(94,23): warning C4028: formal parameter 1 different from declaration
+C:\Users\admin\Desktop\study\C\20240109_ConvertString\20240109_C_이희언.c(101,29): warning C4047: '<=': 'const char *' differs in levels of indirection from 'int'
+  20240109_ConvertString.vcxproj -> C:\Users\admin\Desktop\study\C\20240109_ConvertString\x64\Debug\20240109_ConvertString.exe

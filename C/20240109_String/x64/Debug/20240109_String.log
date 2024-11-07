@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\admin\Desktop\study\C\20240109_String\main.c(4,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\admin\Desktop\study\C\20240109_String\main.c(4,9):
+  consider using '%zd' in the format string
+  
+C:\Users\admin\Desktop\study\C\20240109_String\main.c(24,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\admin\Desktop\study\C\20240109_String\main.c(24,9):
+  consider using '%zd' in the format string
+  
+C:\Users\admin\Desktop\study\C\20240109_String\main.c(27,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\admin\Desktop\study\C\20240109_String\main.c(27,9):
+  consider using '%zd' in the format string
+  
+  20240109_String.vcxproj -> C:\Users\admin\Desktop\study\C\20240109_String\x64\Debug\20240109_String.exe
